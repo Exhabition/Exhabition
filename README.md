@@ -5,6 +5,9 @@ Description
 ## **Familiar with**
 
 * Javascript
-  * Description
 * Node.js
-  * Description
+* MySQL
+* HTML
+* CSS
+* Java
+* Lua
