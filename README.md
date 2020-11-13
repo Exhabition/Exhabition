@@ -26,6 +26,9 @@ Discord bot
 
 *Runs on a 1GB Linux Ubuntu VPS*
 
+
+
+
 ### **Classy**
 
 Discord bot
@@ -37,6 +40,9 @@ Discord bot
  * MySQL
 
 *Runs on a 1GB Linux Ubuntu VPS*
+
+
+
 
 ### **Clocky**
 
@@ -50,6 +56,9 @@ Discord bot
 
 *Runs on a 1GB Linux Ubuntu VPS*
 
+
+
+
 ### **Miney**
 
 Minecraft java server
@@ -59,4 +68,4 @@ Minecraft java server
  * YML
  * MySQL
 
-*Runs on multiple servers connected with eachother throught BungeeCord*
+*Runs on multiple servers connected with eachother through BungeeCord*
