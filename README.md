@@ -21,6 +21,7 @@ Blabla
 ### **Boosty**
 ![](https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png width="255" height="255")
 <img src="ttps://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png" alt="Boosty" width="250"/>
+<img src="https://github.com/favicon.ico" height="24" width="48">
 
 Discord bot
 
