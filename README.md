@@ -43,6 +43,7 @@ Discord bot
 *Runs on a 1GB Linux Ubuntu VPS*
 
 ### **Clocky**
+![](https://test.png)
 
 Discord bot
 
