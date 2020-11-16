@@ -19,7 +19,7 @@ Blabla
 ## **My Projects**
 
 ### **Boosty**
-![](https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.pngs=200)
+![](https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png width="255" height="255")
 
 Discord bot
 
