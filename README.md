@@ -12,6 +12,10 @@ Description
 * Java
 * Lua
 
+## **History**
+
+Blabla
+
 ## **My Projects**
 
 ### **Boosty**
@@ -26,9 +30,6 @@ Discord bot
 
 *Runs on a 1GB Linux Ubuntu VPS*
 
-
-
-
 ### **Classy**
 
 Discord bot
@@ -40,9 +41,6 @@ Discord bot
  * MySQL
 
 *Runs on a 1GB Linux Ubuntu VPS*
-
-
-
 
 ### **Clocky**
 
@@ -56,9 +54,6 @@ Discord bot
 
 *Runs on a 1GB Linux Ubuntu VPS*
 
-
-
-
 ### **Miney**
 
 Minecraft java server
@@ -69,3 +64,11 @@ Minecraft java server
  * MySQL
 
 *Runs on multiple servers connected with eachother through BungeeCord*
+
+### **ExSploits**
+
+Roblox exploit client
+
+**Used**
+ * C#
+ * Lua
