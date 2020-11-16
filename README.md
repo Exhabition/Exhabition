@@ -1,3 +1,5 @@
+*Aware of low res images etc.*
+
 # **Waves 👋**
 
 Description
@@ -45,7 +47,7 @@ Discord bot
 *Runs on a 1GB Linux Ubuntu VPS*
 
 ### **Clocky**
-<img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/clock.png" alt="Clocky" width="250"/>
+<img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/clocky.png" alt="Clocky" width="250"/>
 
 Discord bot
 
