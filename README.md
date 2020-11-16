@@ -19,6 +19,7 @@ Blabla
 ## **My Projects**
 
 ### **Boosty**
+![](https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png)
 
 Discord bot
 
@@ -31,6 +32,7 @@ Discord bot
 *Runs on a 1GB Linux Ubuntu VPS*
 
 ### **Classy**
+![](https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png)
 
 Discord bot
 
@@ -43,7 +45,7 @@ Discord bot
 *Runs on a 1GB Linux Ubuntu VPS*
 
 ### **Clocky**
-![](https://test.png)
+![](https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png)
 
 Discord bot
 
@@ -56,6 +58,7 @@ Discord bot
 *Runs on a 1GB Linux Ubuntu VPS*
 
 ### **Miney**
+![](https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png)
 
 Minecraft java server
 
@@ -67,6 +70,7 @@ Minecraft java server
 *Runs on multiple servers connected with eachother through BungeeCord*
 
 ### **ExSploits**
+![](https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png)
 
 Roblox exploit client
 
