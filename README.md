@@ -20,8 +20,7 @@ Blabla
 
 ## **My Projects**
 
-### **Boosty**
-<img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/boosty.png" alt="Boosty" width="250"/>
+### **Boosty <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/boosty.png" alt="Boosty" width="20"/>**
 
 Discord bot
 
@@ -33,8 +32,7 @@ Discord bot
 
 *Runs on a 1GB Linux Ubuntu VPS*
 
-### **Classy**
-<img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png" alt="Classy" width="250"/>
+### **Classy <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png" alt="Classy" width="20"/>**
 
 Discord bot
 
@@ -46,8 +44,7 @@ Discord bot
 
 *Runs on a 1GB Linux Ubuntu VPS*
 
-### **Clocky**
-<img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/clocky.png" alt="Clocky" width="250"/>
+### **Clocky <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/clocky.png" alt="Clocky" width="20"/>**
 
 Discord bot
 
@@ -59,8 +56,7 @@ Discord bot
 
 *Runs on a 1GB Linux Ubuntu VPS*
 
-### **Miney**
-<img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/miney.png" alt="Miney" width="250"/>
+### **Miney <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/miney.png" alt="Miney" width="20"/>**
 
 Minecraft java server
 
@@ -71,8 +67,7 @@ Minecraft java server
 
 *Runs on multiple servers connected with eachother through BungeeCord*
 
-### **[UNMAINTAINED] ExSploits**
-<img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/exsploits.png" alt="ExSploits" width="250"/>
+### **[UNMAINTAINED] ExSploits <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/exsploits.png" alt="ExSploits" width="20"/>**
 
 Roblox exploit client
 
