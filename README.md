@@ -1,5 +1,3 @@
-*Aware of low res images etc.*
-
 # **S.P.D.S.V.B.E.E.V. 👋**
 
 > *Salute plurimam dicit. Si vales, bene est, ego valeo.*
