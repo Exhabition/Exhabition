@@ -49,6 +49,8 @@ Although this bot is private and can't be invited to your own server, you can te
 
 ### **Classy <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png" alt="Classy" width="30"/>**
 
+**THE FOLLOWING INFORMATION IS A PROJECT WHICH STILL NEEDS TWEAKING AND ISN'T FINISHED, SOME MENTIONED FEATURES HAVENT BEEN PUBLISHED YET**
+
 After getting better with overall coding a Discord bot because of my experience with Boosty, I started to make a music bot, which is a bit harder then a messages only bot. 
 I started streaming making the bot on [Twitch](http://twitch.miney.net) where people asked if I was going to make the bot public. After some time I got the idea to make this the most customizable music bot out there. 
 
@@ -68,6 +70,8 @@ Classy supports multiple platforms like Spotify, Deezer, Tidal, SoundCloud and m
 
 ### **Clocky  <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/clocky.png" alt="Clocky" width="30"/>**
 
+**THE FOLLOWING INFORMATION IS A PROJECT WHICH STILL NEEDS TWEAKING AND ISN'T FINISHED, SOME MENTIONED FEATURES HAVENT BEEN PUBLISHED YET**
+
 After experiencing some trouble with different timezones, I decided to make a bot that would automaticly convert the time mentioned to the users timezone to make it easier for people to see what time I'm talking about without having to convert it themselves.
 
 The bot is able to link users with a certain timezone, so people can ask the bot what the timezone of a specific user is.
@@ -80,6 +84,8 @@ The bot is able to link users with a certain timezone, so people can ask the bot
 
 
 ### **Miney <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/miney.png" alt="Miney" width="30"/>**
+
+**THE FOLLOWING INFORMATION IS A PROJECT WHICH STILL NEEDS TWEAKING AND ISN'T FINISHED, SOME MENTIONED FEATURES HAVENT BEEN PUBLISHED YET**
 
 A Minecraft network containing the gamemodes: Parkour, PvP, Survival
 
