@@ -57,7 +57,7 @@ I started streaming making the bot on [Twitch](http://twitch.miney.net) where pe
 Custom profile image, custom base name, a status displaying the current song if the bot is playing, easily changable permissions etc. 
 This wouldn't be possible if I did it the easy way and that's why I decided to make it premium only, to keep the quality.
 
-Made a system where you can subscribe to 3 different tiers on [Patreon](https://patreon.com/ClassyDiscord) and linked that with the bot, this is my most fun project I have had so far.
+Made a system where you can subscribe to 3 different tiers with [Stripe](https://stripe.com/) and linked that with the bot, this is my most fun project I have had so far.
 
 Classy supports multiple platforms like Spotify, Deezer, Tidal, SoundCloud and more...
 
