@@ -45,7 +45,7 @@ Although this bot is private and can't be invited to your own server, you can te
  * Node.js
  * Discord.js
  * MySQL
-
+ * MongoDB
 
 ### **Classy <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png" alt="Classy" width="30"/>**
 
@@ -66,34 +66,4 @@ Classy supports multiple platforms like Spotify, Deezer, Tidal, SoundCloud and m
  * Node.js
  * Discord.js
  * MySQL
-
-
-### **Clocky  <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/clocky.png" alt="Clocky" width="30"/>**
-
-**THE FOLLOWING INFORMATION IS A PROJECT WHICH STILL NEEDS TWEAKING AND ISN'T FINISHED, SOME MENTIONED FEATURES HAVENT BEEN PUBLISHED YET**
-
-After experiencing some trouble with different timezones, I decided to make a bot that would automaticly convert the time mentioned to the users timezone to make it easier for people to see what time I'm talking about without having to convert it themselves.
-
-The bot is able to link users with a certain timezone, so people can ask the bot what the timezone of a specific user is.
-
-**Used** 
- * Javascript
- * Node.js
- * Discord.js
- * MySQL
-
-
-### **Miney <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/miney.png" alt="Miney" width="30"/>**
-
-**THE FOLLOWING INFORMATION IS A PROJECT WHICH STILL NEEDS TWEAKING AND ISN'T FINISHED, SOME MENTIONED FEATURES HAVENT BEEN PUBLISHED YET**
-
-A Minecraft network containing the gamemodes: Parkour, PvP, Survival
-
-This originally started as a single server only having survival, but after some time I started hosting multiple servers and connected them with a BungeeCord.
-
-The servers have custom coded plugins with cheat detection being able to detect known hacked clients like [Wurst](https://github.com/Wurst-Imperium/Wurst7). 
-
-**Used** 
- * Java
- * YML
- * MySQL
+ * MongoDB
