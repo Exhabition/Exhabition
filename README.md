@@ -18,7 +18,9 @@ Of course I didn't list every project, small projects like making a calculator i
 
 **16 years old** - Started working on Boosty, a Discord bot, started small, got bigger really fast
 
-**17 years old (now)** - Started multiple projects, a Discord music bot, a Minecraft server, a website for that server and a Discord bot which converts timezones
+**17 years old** - Started multiple projects, a Discord music bot, a Minecraft server, a website for that server and a Discord bot which converts timezones
+
+**68 years old** - Proud boomer
 
 ## **Familiar with**
 
