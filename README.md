@@ -6,22 +6,6 @@
 Below you find a short history about my experience with coding and some projects I worked on.
 Of course I didn't list every project, small projects like making a calculator in Lua are not listed on here.
 
-*Last update was on November 25th - 2020* 
-
-## **History**
-
-**13 years old** - I started making my own small games on a platform called Roblox, the engine uses Lua which has some really readable syntax supporting **and** instead of **&&** etc.
-
-**14 years old** - I worked on a game with the idea being parkour mixed up with reflections, sometimes platforms would be invisible, but if you looked in the mirror they were visible, this project however ended up being to big for a solo developer and I lost interest in it.
-
-**15 years old** - I got some lessons in C#, HTML and CSS, this was however really basic, I started making an application called ExSploits with C# at home. This application allowed me to run Lua scripts within other Roblox games, thus being able to change stuff in other games.
-
-**16 years old** - Started working on Boosty, a Discord bot, started small, got bigger really fast
-
-**17 years old** - Started multiple projects, a Discord music bot, a Minecraft server, a website for that server and a Discord bot which converts timezones
-
-**68 years old** - Proud boomer
-
 ## **Familiar with**
 
 * Javascript
@@ -47,6 +31,19 @@ Although this bot is private and can't be invited to your own server, you can te
  * Node.js
  * Discord.js
  * MySQL
+ * MongoDB
+
+### **Miney <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/miney.png" alt="Miney" width="30"/>**
+
+Discord bot which mainly gets stats from the Minecraft and one of the biggests servers, Hypixel. 
+While making Miney, I learned a lot about API requests and rate limits, I also did work on some image generation.
+
+More info about Miney can be found on here: https://top.gg/bot/780020541117038592
+
+**Used** 
+ * Javascript
+ * Node.js
+ * Discord.js
  * MongoDB
 
 ### **Classy <img src="https://raw.githubusercontent.com/Exhabition/Exhabition/main/classy.png" alt="Classy" width="30"/>**
