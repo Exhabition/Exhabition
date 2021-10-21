@@ -5,11 +5,11 @@
   <br>
   <i>Don't worry, I already hate my life so don't have to bully me about it</i>
 
-   <h2>Some Shitty Projects</h2>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exhabition&repo=trace.moe.js&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=DFCF53">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exhabition&repo=24-7-Rich-Presence&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=DFCF53">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exhabition&repo=erisify&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=F495BF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exhabition&repo=Poindy&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=DFCF53">
+  <h2>Some Shitty Projects</h2>
+  <a href="https://github.com/Exhabition/trace.moe.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Exhabition&repo=trace.moe.js&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=DFCF53"></a>
+  <a href="https://github.com/Exhabition/24-7-Rich-Presence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Exhabition&repo=24-7-Rich-Presence&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=DFCF53"></a>
+  <a href="https://github.com/Exhabition/erisify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Exhabition&repo=erisify&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=F495BF"></a>
+  <a href="https://github.com/Exhabition/Poindy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Exhabition&repo=Poindy&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=DFCF53"></a>
   <div>
 
   <h3>Possibly Working on Weeb Shit</h3>
