@@ -13,6 +13,6 @@
   <div>
 
   <h3>Possibly Working on Weeb Shit</h3>
-  <a href="https://anilist.co/user/Exhabition/"><img src="https://us-east-1.tixte.net/uploads/weeby.discowd.com/kv0qspfje0a.png" width="40%" margin-left="5%"></a> <a href="https://anilist.co/user/Poinda/"><img src="https://us-east-1.tixte.net/uploads/weeby.discowd.com/ku4g1w8on9a.png" width="40%"></a>
-  <a href="https://anilist.co/user/JusticeUwU/"><img src="https://us-east-1.tixte.net/uploads/weeby.discowd.com/kuhhrvcfx9a.png" width="40%"></a> <a href="https://anilist.co/user/jxni/"><img src="https://us-east-1.tixte.net/uploads/weeby.discowd.com/kv0si5acv0a.png" width="40%"></a>
+  <a href="https://anilist.co/user/Exhabition/"><img src="https://weeby.discowd.com/r/kyzwm3ceb0a.png" width="40%" margin-left="5%"></a> <a href="https://anilist.co/user/ItsAmyDuh/"><img src="https://weeby.discowd.com/r/kyzwpafes0a.png" width="40%"></a>
+  <a href="https://anilist.co/user/JusticeUwU/"><img src="https://weeby.discowd.com/r/kyzwnyr950a.png" width="40%"></a> <a href="https://anilist.co/user/jxni/"><img src="https://weeby.discowd.com/r/kyzwogq210a.png" width="40%"></a>
  </div>
