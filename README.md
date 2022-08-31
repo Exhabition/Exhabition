@@ -13,6 +13,6 @@
   <div>
 
   <h3>Possibly Working on Weeb Shit</h3>
-  <a href="https://anilist.co/user/Exhabition/"><img src="https://weeby.discowd.com/r/kyzwm3ceb0a.png" width="40%" margin-left="5%"></a> <a href="https://anilist.co/user/ItsAmyDuh/"><img src="https://weeby.discowd.com/r/kyzwpafes0a.png" width="40%"></a>
-  <a href="https://anilist.co/user/JusticeUwU/"><img src="https://weeby.discowd.com/r/kyzwnyr950a.png" width="40%"></a> <a href="https://anilist.co/user/jxni/"><img src="https://weeby.discowd.com/r/kyzwogq210a.png" width="40%"></a>
+  <a href="https://anilist.co/user/862658/"><img src="https://api.weeby.gg/stats/862658" width="40%" margin-left="5%"></a> <a href="https://anilist.co/user/5413108/"><img src="https://api.weeby.gg/stats/5413108" width="40%"></a>
+  <a href="https://anilist.co/user/5334387/"><img src="https://api.weeby.gg/stats/5334387" width="40%"></a> <a href="https://anilist.co/user/665366/"><img src="https://api.weeby.gg/stats/665366" width="40%"></a>
  </div>
