@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exhabition&layout=compact&theme=date_night"/>
+  <img src="https://github-readme-stats-git-main-exhabitions-projects.vercel.app/api/top-langs/?username=exhabition&layout=compact&theme=date_night"/>
 
   <h3>Stats</h3>
   <i>Temp disabled due to AniList API issues</i>
